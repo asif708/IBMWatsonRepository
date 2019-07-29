@@ -2,5 +2,5 @@ File1 is created....
 
 <HTML>
 	<HEAD>Welcome to Git...</HEAD>
-	
-</HTML>
+	<BODY>Understanding git basic commands...<BODY> 
+</HTML>	
