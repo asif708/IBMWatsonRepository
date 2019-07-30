@@ -1,9 +1,10 @@
 <HTML>
-	<HEAD>Welcome to Git...
+	<HEAD>Welcome to Git...!!!
 	<H1>File1 is created....</H1>
+	<H2>Change made on remote </H2>
 	<H5> Change made on local by user1 </H5>
-
 	</HEAD>
+
 	<BODY>Understanding git basic commands...
 	      Change to review...
 
