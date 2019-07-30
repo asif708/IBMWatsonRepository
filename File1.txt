@@ -7,8 +7,9 @@
 
 	<BODY>Understanding git basic commands...
 	      Understanding git branch,merge and rebase...!!!	
+	      Rebase to solve conflict...
 	      Change to review...
-
+	      		
 
 	<BODY> 
 </HTML>	
