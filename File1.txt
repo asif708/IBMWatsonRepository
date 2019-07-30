@@ -1,6 +1,7 @@
 <HTML>
 	<HEAD>Welcome to Git...
 	<H1>File1 is created....</H1>
+	<H5> Change made on local by user1 </H5>
 
 	</HEAD>
 	<BODY>Understanding git basic commands...
